@@ -30,7 +30,7 @@ Installation
 --------------------
 
 ```
-go get github.com/litao91/goldmark-mathjax
+go get github.com/quail-ink/goldmark-mathjax
 ```
 
 Usage
@@ -43,7 +43,7 @@ import (
 	"bytes"
 	"fmt"
 
-	mathjax "github.com/litao91/goldmark-mathjax"
+	mathjax "github.com/quail-ink/goldmark-mathjax"
 	"github.com/yuin/goldmark"
 	"github.com/yuin/goldmark/parser"
 	"github.com/yuin/goldmark/renderer/html"
