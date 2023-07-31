@@ -1,8 +1,6 @@
 package mathjax
 
 import (
-	"fmt"
-
 	"github.com/yuin/goldmark"
 	"github.com/yuin/goldmark/parser"
 	"github.com/yuin/goldmark/renderer"
