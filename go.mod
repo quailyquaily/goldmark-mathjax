@@ -1,4 +1,4 @@
-module github.com/quail-ink/goldmark-mathjax
+module github.com/quailyquaily/goldmark-mathjax
 
 go 1.14
 
